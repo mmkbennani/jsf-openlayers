@@ -1,0 +1,1 @@
+This is an example project of using OpenLayers, the goal is to include JSF components and eventually to integrate SIAS data.
